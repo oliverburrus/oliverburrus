@@ -44,7 +44,6 @@
 
 * 💻 Currently working on Bioacoustics, Computational Ornithology, and Remote Sensing.
 
-<details>
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
@@ -56,5 +55,3 @@ My Github Stats
 
 
 <br>
-
-</details>
